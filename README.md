@@ -1,2 +1,3 @@
 # GitHub-dem0
-making the demo repository of GitHub
+This is demo for Gitt and GitHub
+
